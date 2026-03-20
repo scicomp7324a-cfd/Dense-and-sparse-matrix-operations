@@ -1,4 +1,4 @@
-# Dense-and-sparse-matrix-operations
+# Dense_and_sparse_matrix_operations
 
 Overview
 --------
